@@ -1,4 +1,4 @@
-# dicoding_submission
+# dicoding_practice
 
 A new Flutter project.
 
